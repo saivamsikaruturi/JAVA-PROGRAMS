@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="JDBC">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/JDBC/Retrieve Flights Based on Source and Destination.zip!/" />
+      <root url="jar://$PROJECT_DIR$/JDBC/Update Flight Fare for a Flight.zip!/" />
+      <root url="jar://$PROJECT_DIR$/JDBC/Add Flight using JDBC.zip!/" />
+      <root url="jar://$PROJECT_DIR$/JDBC/Retrieve Flight Using Flight ID.zip!/" />
+      <root url="jar://$PROJECT_DIR$/JDBC/Delete flight Using Flight ID.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

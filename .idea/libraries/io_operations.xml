@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="io operations">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/io operations/Finding the longest word.zip!/" />
+      <root url="jar://$PROJECT_DIR$/io operations/Persist Employee.zip!/" />
+      <root url="jar://$PROJECT_DIR$/io operations/Counting the Word in the given file.zip!/" />
+      <root url="jar://$PROJECT_DIR$/io operations/Visitors Details.zip!/" />
+      <root url="jar://$PROJECT_DIR$/io operations/Retrieving Data from file.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

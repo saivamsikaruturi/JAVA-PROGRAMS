@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="exception handling">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/exception handling/Divide two numbers - Use finally.zip!/" />
+      <root url="jar://$PROJECT_DIR$/exception handling/Array Manipulation - Use try with multi catch.zip!/" />
+      <root url="jar://$PROJECT_DIR$/exception handling/Register a Candidate - User defined Exception(with throw and throws) .zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

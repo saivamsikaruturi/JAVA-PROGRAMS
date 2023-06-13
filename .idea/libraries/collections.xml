@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="collections">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/collections/Count of Each Words.zip!/" />
+      <root url="jar://$PROJECT_DIR$/collections/Member Manipulation.zip!/" />
+      <root url="jar://$PROJECT_DIR$/collections/Number of New Words.zip!/" />
+      <root url="jar://$PROJECT_DIR$/collections/Book Manipulation.zip!/" />
+      <root url="jar://$PROJECT_DIR$/collections/PhoneBook Manipulation.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>

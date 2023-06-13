@@ -1,0 +1,10 @@
+<component name="libraryTable">
+  <library name="concurrent collections">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/concurrent collections/Manipulation of Employee - Usage of ArrayBlockingQueue.zip!/" />
+      <root url="jar://$PROJECT_DIR$/concurrent collections/Student Mark list - Use ConcurrentHashMap.zip!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
